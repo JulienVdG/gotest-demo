@@ -1,0 +1,259 @@
+{"Time":"2019-09-05T09:55:05.797106391+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Test":"TestWriter"}
+{"Time":"2019-09-05T09:55:05.797279607+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Test":"TestWriter","Output":"=== RUN   TestWriter\n"}
+{"Time":"2019-09-05T09:55:05.797299478+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Test":"TestWriter","Output":"--- PASS: TestWriter (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.797309048+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Test":"TestWriter","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.797320717+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:05.797326768+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/asciicast\t(cached)\n"}
+{"Time":"2019-09-05T09:55:05.797337292+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/asciicast","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829145877+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter"}
+{"Time":"2019-09-05T09:55:05.829190388+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter","Output":"=== RUN   TestConverter\n"}
+{"Time":"2019-09-05T09:55:05.829202065+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Empty"}
+{"Time":"2019-09-05T09:55:05.829208317+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Empty","Output":"=== RUN   TestConverter/Empty\n"}
+{"Time":"2019-09-05T09:55:05.829217921+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/InvalidJSON"}
+{"Time":"2019-09-05T09:55:05.829224848+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/InvalidJSON","Output":"=== RUN   TestConverter/InvalidJSON\n"}
+{"Time":"2019-09-05T09:55:05.829234087+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Raw_Text"}
+{"Time":"2019-09-05T09:55:05.829239902+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Raw_Text","Output":"=== RUN   TestConverter/Raw_Text\n"}
+{"Time":"2019-09-05T09:55:05.829245399+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Nil"}
+{"Time":"2019-09-05T09:55:05.829250168+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Nil","Output":"=== RUN   TestConverter/Nil\n"}
+{"Time":"2019-09-05T09:55:05.829255619+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/case1"}
+{"Time":"2019-09-05T09:55:05.829260541+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/case1","Output":"=== RUN   TestConverter/case1\n"}
+{"Time":"2019-09-05T09:55:05.829270058+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter","Output":"--- PASS: TestConverter (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829277097+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Empty","Output":"    --- PASS: TestConverter/Empty (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829283558+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Empty","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829292042+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/InvalidJSON","Output":"    --- PASS: TestConverter/InvalidJSON (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829299136+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/InvalidJSON","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829304739+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Raw_Text","Output":"    --- PASS: TestConverter/Raw_Text (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829311194+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Raw_Text","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829316652+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Nil","Output":"    --- PASS: TestConverter/Nil (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829322745+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/Nil","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829327986+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/case1","Output":"    --- PASS: TestConverter/case1 (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.829333609+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter/case1","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829338511+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverter","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.829343069+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose"}
+{"Time":"2019-09-05T09:55:05.829348101+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose","Output":"=== RUN   TestConverterVerbose\n"}
+{"Time":"2019-09-05T09:55:05.829353493+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/ascii"}
+{"Time":"2019-09-05T09:55:05.829358188+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/ascii","Output":"=== RUN   TestConverterVerbose/ascii\n"}
+{"Time":"2019-09-05T09:55:05.829363611+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/bench"}
+{"Time":"2019-09-05T09:55:05.829368453+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/bench","Output":"=== RUN   TestConverterVerbose/bench\n"}
+{"Time":"2019-09-05T09:55:05.829373723+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchfail"}
+{"Time":"2019-09-05T09:55:05.829378413+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchfail","Output":"=== RUN   TestConverterVerbose/benchfail\n"}
+{"Time":"2019-09-05T09:55:05.829383723+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchshort"}
+{"Time":"2019-09-05T09:55:05.829388436+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchshort","Output":"=== RUN   TestConverterVerbose/benchshort\n"}
+{"Time":"2019-09-05T09:55:05.829393666+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23036"}
+{"Time":"2019-09-05T09:55:05.829398391+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23036","Output":"=== RUN   TestConverterVerbose/issue23036\n"}
+{"Time":"2019-09-05T09:55:05.829403792+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23920"}
+{"Time":"2019-09-05T09:55:05.829408646+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23920","Output":"=== RUN   TestConverterVerbose/issue23920\n"}
+{"Time":"2019-09-05T09:55:05.829414198+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/smiley"}
+{"Time":"2019-09-05T09:55:05.829418805+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/smiley","Output":"=== RUN   TestConverterVerbose/smiley\n"}
+{"Time":"2019-09-05T09:55:05.8294268+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/unicode"}
+{"Time":"2019-09-05T09:55:05.829431765+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/unicode","Output":"=== RUN   TestConverterVerbose/unicode\n"}
+{"Time":"2019-09-05T09:55:05.829437243+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/vet"}
+{"Time":"2019-09-05T09:55:05.829442048+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/vet","Output":"=== RUN   TestConverterVerbose/vet\n"}
+{"Time":"2019-09-05T09:55:05.829448388+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose","Output":"--- PASS: TestConverterVerbose (0.08s)\n"}
+{"Time":"2019-09-05T09:55:05.829454786+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/ascii","Output":"    --- PASS: TestConverterVerbose/ascii (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829460819+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/ascii","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829469158+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/bench","Output":"    --- PASS: TestConverterVerbose/bench (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829475898+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/bench","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.82948142+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchfail","Output":"    --- PASS: TestConverterVerbose/benchfail (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829490595+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchfail","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829496549+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchshort","Output":"    --- PASS: TestConverterVerbose/benchshort (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829502915+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/benchshort","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829510497+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23036","Output":"    --- PASS: TestConverterVerbose/issue23036 (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.82951652+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23036","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829521819+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23920","Output":"    --- PASS: TestConverterVerbose/issue23920 (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829527517+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/issue23920","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829532763+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/smiley","Output":"    --- PASS: TestConverterVerbose/smiley (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829538649+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/smiley","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829543893+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/unicode","Output":"    --- PASS: TestConverterVerbose/unicode (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829549852+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/unicode","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829555262+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/vet","Output":"    --- PASS: TestConverterVerbose/vet (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829560827+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose/vet","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829565879+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterVerbose","Elapsed":0.08}
+{"Time":"2019-09-05T09:55:05.829570684+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary"}
+{"Time":"2019-09-05T09:55:05.829575217+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary","Output":"=== RUN   TestConverterSummary\n"}
+{"Time":"2019-09-05T09:55:05.82958047+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/ascii"}
+{"Time":"2019-09-05T09:55:05.829585226+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/ascii","Output":"=== RUN   TestConverterSummary/ascii\n"}
+{"Time":"2019-09-05T09:55:05.82959043+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/bench"}
+{"Time":"2019-09-05T09:55:05.82959502+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/bench","Output":"=== RUN   TestConverterSummary/bench\n"}
+{"Time":"2019-09-05T09:55:05.829600214+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchfail"}
+{"Time":"2019-09-05T09:55:05.82960567+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchfail","Output":"=== RUN   TestConverterSummary/benchfail\n"}
+{"Time":"2019-09-05T09:55:05.829611173+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchshort"}
+{"Time":"2019-09-05T09:55:05.82961596+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchshort","Output":"=== RUN   TestConverterSummary/benchshort\n"}
+{"Time":"2019-09-05T09:55:05.829622054+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23036"}
+{"Time":"2019-09-05T09:55:05.829626739+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23036","Output":"=== RUN   TestConverterSummary/issue23036\n"}
+{"Time":"2019-09-05T09:55:05.829632236+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23920"}
+{"Time":"2019-09-05T09:55:05.829637073+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23920","Output":"=== RUN   TestConverterSummary/issue23920\n"}
+{"Time":"2019-09-05T09:55:05.82964276+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/smiley"}
+{"Time":"2019-09-05T09:55:05.829647396+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/smiley","Output":"=== RUN   TestConverterSummary/smiley\n"}
+{"Time":"2019-09-05T09:55:05.829652781+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/unicode"}
+{"Time":"2019-09-05T09:55:05.829657517+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/unicode","Output":"=== RUN   TestConverterSummary/unicode\n"}
+{"Time":"2019-09-05T09:55:05.829662911+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/vet"}
+{"Time":"2019-09-05T09:55:05.829667726+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/vet","Output":"=== RUN   TestConverterSummary/vet\n"}
+{"Time":"2019-09-05T09:55:05.82967517+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary","Output":"--- PASS: TestConverterSummary (0.07s)\n"}
+{"Time":"2019-09-05T09:55:05.829681521+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/ascii","Output":"    --- PASS: TestConverterSummary/ascii (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829688146+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/ascii","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.82969408+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/bench","Output":"    --- PASS: TestConverterSummary/bench (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829700167+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/bench","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.82970573+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchfail","Output":"    --- PASS: TestConverterSummary/benchfail (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829711637+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchfail","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829716924+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchshort","Output":"    --- PASS: TestConverterSummary/benchshort (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829722653+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/benchshort","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.82972791+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23036","Output":"    --- PASS: TestConverterSummary/issue23036 (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829733716+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23036","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829739063+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23920","Output":"    --- PASS: TestConverterSummary/issue23920 (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829746031+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/issue23920","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829751598+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/smiley","Output":"    --- PASS: TestConverterSummary/smiley (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829758568+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/smiley","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829764195+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/unicode","Output":"    --- PASS: TestConverterSummary/unicode (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829770204+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/unicode","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829775741+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/vet","Output":"    --- PASS: TestConverterSummary/vet (0.01s)\n"}
+{"Time":"2019-09-05T09:55:05.829780777+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary/vet","Elapsed":0.01}
+{"Time":"2019-09-05T09:55:05.829785514+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Test":"TestConverterSummary","Elapsed":0.07}
+{"Time":"2019-09-05T09:55:05.829790623+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:05.829795663+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/json2test\t(cached)\n"}
+{"Time":"2019-09-05T09:55:05.829807478+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/json2test","Elapsed":0.001}
+{"Time":"2019-09-05T09:55:05.835647131+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/gotest","Output":"?   \tgithub.com/JulienVdG/tastevin/cmds/gotest\t[no test files]\n"}
+{"Time":"2019-09-05T09:55:05.83567523+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/cmds/gotest","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.844079659+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Test":"TestWriter"}
+{"Time":"2019-09-05T09:55:05.844097848+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Test":"TestWriter","Output":"=== RUN   TestWriter\n"}
+{"Time":"2019-09-05T09:55:05.844110546+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Test":"TestWriter","Output":"--- PASS: TestWriter (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.844116488+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Test":"TestWriter","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.844123715+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:05.844129393+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/scriptreplay\t(cached)\n"}
+{"Time":"2019-09-05T09:55:05.844135962+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.876522062+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestLinuxboot2uroot"}
+{"Time":"2019-09-05T09:55:05.876575632+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestLinuxboot2uroot","Output":"=== RUN   TestLinuxboot2uroot\n"}
+{"Time":"2019-09-05T09:55:05.876592451+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestLinuxboot2uroot","Output":"--- SKIP: TestLinuxboot2uroot (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.876601796+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestLinuxboot2uroot","Output":"    expect_test.go:18: QEMU test is skipped unless TASTEVIN_QEMU is set\n"}
+{"Time":"2019-09-05T09:55:05.876610706+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestLinuxboot2uroot","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.876622602+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestQemu"}
+{"Time":"2019-09-05T09:55:05.876628579+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestQemu","Output":"=== RUN   TestQemu\n"}
+{"Time":"2019-09-05T09:55:05.876635291+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestQemu","Output":"--- SKIP: TestQemu (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.876641145+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestQemu","Output":"    qemu_test.go:17: QEMU test is skipped unless TASTEVIN_QEMU is set\n"}
+{"Time":"2019-09-05T09:55:05.876647072+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Test":"TestQemu","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.876652836+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:05.876658486+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/qemu\t(cached)\n"}
+{"Time":"2019-09-05T09:55:05.87666485+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/qemu","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.892434309+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser"}
+{"Time":"2019-09-05T09:55:05.892478839+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser","Output":"=== RUN   TestCloser\n"}
+{"Time":"2019-09-05T09:55:05.892494074+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser","Output":"--- PASS: TestCloser (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.892502656+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.892512953+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestWriteCloser"}
+{"Time":"2019-09-05T09:55:05.89251837+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestWriteCloser","Output":"=== RUN   TestWriteCloser\n"}
+{"Time":"2019-09-05T09:55:05.892525867+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestWriteCloser","Output":"--- PASS: TestWriteCloser (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.892532157+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestWriteCloser","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.8925379+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser_merged"}
+{"Time":"2019-09-05T09:55:05.892542904+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser_merged","Output":"=== RUN   TestCloser_merged\n"}
+{"Time":"2019-09-05T09:55:05.892549258+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser_merged","Output":"--- PASS: TestCloser_merged (0.00s)\n"}
+{"Time":"2019-09-05T09:55:05.892554597+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/xio","Test":"TestCloser_merged","Elapsed":0}
+{"Time":"2019-09-05T09:55:05.892560096+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:05.892565434+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/xio\t(cached)\n"}
+{"Time":"2019-09-05T09:55:05.892573781+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/xio","Elapsed":0}
+{"Time":"2019-09-05T09:55:06.089052768+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot"}
+{"Time":"2019-09-05T09:55:06.089095448+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"=== RUN   TestLinuxboot2uroot\n"}
+{"Time":"2019-09-05T09:55:06.176891943+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot"}
+{"Time":"2019-09-05T09:55:06.176993402+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"=== RUN   TestLinuxboot2uroot\n"}
+{"Time":"2019-09-05T09:55:06.177141094+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.log' (/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.tim) start\n"}
+{"Time":"2019-09-05T09:55:06.177219219+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.cast' start\n"}
+{"Time":"2019-09-05T09:55:06.177311956+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df1e0: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.177323593+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df110: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.17733203+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 Sent: \"\\n2019/03/26 13:50:05 Welcome to u-root!\\n                              _\\n   _   _      _ __ ___   ___ | |_\\n  | | | |____| '__/ _ \\\\ / _ \\\\| __|\\n  | |_| |____| | | (_) | (_) | |_\\n   \\\\__,_|    |_|  \\\\___/ \\\\___/ \\\\__|\\n\\n\"\n"}
+{"Time":"2019-09-05T09:55:06.177343216+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df110: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.177352679+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df1e0: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.177419637+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"Matched u-root banner\n"}
+{"Time":"2019-09-05T09:55:06.177431173+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df110: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.177443916+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df1e0: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.17748605+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 chk: true, ge: 0xc0000df110: buf: \"\"\n"}
+{"Time":"2019-09-05T09:55:06.177497021+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 Match for RE: \"Welcome to u-root!\" found: [\"Welcome to u-root!\"] Buffer: \"\\n2019/03/26 13:50:05 Welcome to u-root!\\n                              _\\n   _   _      _ __ ___   ___ | |_\\n  | | | |____| '__/ _ \\\\ / _ \\\\| __|\\n  | |_| |____| | | (_) | (_) | |_\\n   \\\\__,_|    |_|  \\\\___/ \\\\___/ \\\\__|\\n\\n\"\n"}
+{"Time":"2019-09-05T09:55:06.177511101+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 Sent: \"\\n~/\u003e \"\n"}
+{"Time":"2019-09-05T09:55:06.177571266+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"Matched u-root prompt\n"}
+{"Time":"2019-09-05T09:55:06.177585356+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 Match for RE: \"~/\u003e \" found: [\"~/\u003e \"] Buffer: \"\\n                              _\\n   _   _      _ __ ___   ___ | |_\\n  | | | |____| '__/ _ \\\\ / _ \\\\| __|\\n  | |_| |____| | | (_) | (_) | |_\\n   \\\\__,_|    |_|  \\\\___/ \\\\___/ \\\\__|\\n\\n\\n~/\u003e \"\n"}
+{"Time":"2019-09-05T09:55:06.177608241+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 read closing down: EOF\n"}
+{"Time":"2019-09-05T09:55:06.177640451+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.log' (/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.tim) end\n"}
+{"Time":"2019-09-05T09:55:06.177651085+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_pkg_testsuite_test-TestLinuxboot2uroot.cast' end\n"}
+{"Time":"2019-09-05T09:55:06.177658791+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"2019/09/05 09:55:06 read closing down: EOF\n"}
+{"Time":"2019-09-05T09:55:06.177672273+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Output":"--- PASS: TestLinuxboot2uroot (0.00s)\n"}
+{"Time":"2019-09-05T09:55:06.177679617+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Test":"TestLinuxboot2uroot","Elapsed":0}
+{"Time":"2019-09-05T09:55:06.17769066+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Output":"PASS\n"}
+{"Time":"2019-09-05T09:55:06.178037623+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Output":"ok  \tgithub.com/JulienVdG/tastevin/pkg/testsuite\t0.006s\n"}
+{"Time":"2019-09-05T09:55:06.178183784+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/pkg/testsuite","Elapsed":0.006}
+{"Time":"2019-09-05T09:55:19.446351662+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.log' (/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.tim) start\n"}
+{"Time":"2019-09-05T09:55:19.446459388+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.cast' start\n"}
+{"Time":"2019-09-05T09:55:32.41232324+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"Matched LinuxBoot banner\n"}
+{"Time":"2019-09-05T09:55:40.781955013+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"Matched Starting bzImage\n"}
+{"Time":"2019-09-05T09:55:49.870043597+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"Matched u-root banner\n"}
+{"Time":"2019-09-05T09:55:51.48970074+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"Matched u-root prompt\n"}
+{"Time":"2019-09-05T09:55:51.4897526+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot"}
+{"Time":"2019-09-05T09:55:51.489769264+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"=== RUN   TestLinuxboot2uroot/Reboot\n"}
+{"Time":"2019-09-05T09:55:52.13366897+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"Reboot done\n"}
+{"Time":"2019-09-05T09:56:04.088381182+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"Matched LinuxBoot banner\n"}
+{"Time":"2019-09-05T09:56:12.45039388+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"Matched Starting bzImage\n"}
+{"Time":"2019-09-05T09:56:21.547022303+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"Matched u-root banner\n"}
+{"Time":"2019-09-05T09:56:23.169222742+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"Matched u-root prompt\n"}
+{"Time":"2019-09-05T09:56:23.669573233+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.log' (/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.tim) end\n"}
+{"Time":"2019-09-05T09:56:23.669618013+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/github-com_JulienVdG_tastevin_cmds_winterfell-ci_test-TestLinuxboot2uroot.cast' end\n"}
+{"Time":"2019-09-05T09:56:23.669655636+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Output":"--- PASS: TestLinuxboot2uroot (77.58s)\n"}
+{"Time":"2019-09-05T09:56:23.669673805+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Output":"    --- PASS: TestLinuxboot2uroot/Reboot (31.68s)\n"}
+{"Time":"2019-09-05T09:56:23.669702742+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot/Reboot","Elapsed":31.68}
+{"Time":"2019-09-05T09:56:23.669723167+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestLinuxboot2uroot","Elapsed":77.58}
+{"Time":"2019-09-05T09:56:23.669734533+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI"}
+{"Time":"2019-09-05T09:56:23.669745453+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI","Output":"=== RUN   TestSerialAndIPMI\n"}
+{"Time":"2019-09-05T09:56:37.031907069+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group"}
+{"Time":"2019-09-05T09:56:37.031977909+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group","Output":"=== RUN   TestSerialAndIPMI/group\n"}
+{"Time":"2019-09-05T09:56:37.032003332+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial"}
+{"Time":"2019-09-05T09:56:37.032015866+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"=== RUN   TestSerialAndIPMI/group/Serial\n"}
+{"Time":"2019-09-05T09:56:37.032160609+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.log' (/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.tim) start\n"}
+{"Time":"2019-09-05T09:56:37.032237391+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.cast' start\n"}
+{"Time":"2019-09-05T09:56:58.480196184+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"=== PAUSE TestSerialAndIPMI/group/Serial\n"}
+{"Time":"2019-09-05T09:56:58.480234094+02:00","Action":"pause","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial"}
+{"Time":"2019-09-05T09:56:58.480250304+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI"}
+{"Time":"2019-09-05T09:56:58.480263757+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"=== RUN   TestSerialAndIPMI/group/IPMI\n"}
+{"Time":"2019-09-05T09:56:58.480416152+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.log' (/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.tim) start\n"}
+{"Time":"2019-09-05T09:56:58.480484192+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.cast' start\n"}
+{"Time":"2019-09-05T09:56:58.480509941+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"=== PAUSE TestSerialAndIPMI/group/IPMI\n"}
+{"Time":"2019-09-05T09:56:58.480522367+02:00","Action":"pause","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI"}
+{"Time":"2019-09-05T09:56:58.480534269+02:00","Action":"cont","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial"}
+{"Time":"2019-09-05T09:56:58.480544912+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"=== CONT  TestSerialAndIPMI/group/Serial\n"}
+{"Time":"2019-09-05T09:56:58.480560021+02:00","Action":"cont","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI"}
+{"Time":"2019-09-05T09:56:58.480570858+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"=== CONT  TestSerialAndIPMI/group/IPMI\n"}
+{"Time":"2019-09-05T09:57:07.567514898+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"Matched u-root banner\n"}
+{"Time":"2019-09-05T09:57:08.339709493+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"Matched u-root banner\n"}
+{"Time":"2019-09-05T09:57:08.454990639+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"Matched u-root prompt\n"}
+{"Time":"2019-09-05T09:57:08.455621221+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.log' (/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.tim) end\n"}
+{"Time":"2019-09-05T09:57:08.455649778+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_ipmi.cast' end\n"}
+{"Time":"2019-09-05T09:57:09.198753229+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"Matched u-root prompt\n"}
+{"Time":"2019-09-05T09:57:09.198848192+02:00","Action":"run","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power"}
+{"Time":"2019-09-05T09:57:09.198867619+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power","Output":"=== RUN   TestSerialAndIPMI/ipmi_power\n"}
+{"Time":"2019-09-05T09:57:23.497726892+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power","Output":"*** ScriptReplay '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.log' (/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.tim) end\n"}
+{"Time":"2019-09-05T09:57:23.497804692+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power","Output":"*** Asciicast '/home/linuxboot/tastevin/logs/TestSerialAndIPMI_serial.cast' end\n"}
+{"Time":"2019-09-05T09:57:23.497837846+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI","Output":"--- PASS: TestSerialAndIPMI (59.83s)\n"}
+{"Time":"2019-09-05T09:57:23.497860552+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group","Output":"    --- PASS: TestSerialAndIPMI/group (21.45s)\n"}
+{"Time":"2019-09-05T09:57:23.49789475+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Output":"        --- PASS: TestSerialAndIPMI/group/IPMI (9.97s)\n"}
+{"Time":"2019-09-05T09:57:23.49791943+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/IPMI","Elapsed":9.97}
+{"Time":"2019-09-05T09:57:23.497940673+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Output":"        --- PASS: TestSerialAndIPMI/group/Serial (32.17s)\n"}
+{"Time":"2019-09-05T09:57:23.497953984+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group/Serial","Elapsed":32.17}
+{"Time":"2019-09-05T09:57:23.497966416+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/group","Elapsed":21.45}
+{"Time":"2019-09-05T09:57:23.497977759+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power","Output":"    --- PASS: TestSerialAndIPMI/ipmi_power (13.81s)\n"}
+{"Time":"2019-09-05T09:57:23.497988284+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI/ipmi_power","Elapsed":13.81}
+{"Time":"2019-09-05T09:57:23.497998619+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Test":"TestSerialAndIPMI","Elapsed":59.83}
+{"Time":"2019-09-05T09:57:23.498009404+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Output":"PASS\n"}
+{"Time":"2019-09-05T09:57:23.498838741+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Output":"ok  \tgithub.com/JulienVdG/tastevin/cmds/winterfell-ci\t137.413s\n"}
+{"Time":"2019-09-05T09:57:23.500844428+02:00","Action":"pass","Package":"github.com/JulienVdG/tastevin/cmds/winterfell-ci","Elapsed":137.415}
+{"Time":"2019-09-05T09:57:23.502607372+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/asciicast/manualtest/gen","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/asciicast/manualtest/gen\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502645225+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/asciicast/manualtest/gen","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502682918+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/browser","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/browser\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502699871+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/browser","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502728005+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/em100","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/em100\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502749301+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/em100","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502781105+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/gotestweb","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/gotestweb\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502797355+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/gotestweb","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502838208+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/relay","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/relay\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502866098+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/relay","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502913408+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay/manualtest/gen","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/scriptreplay/manualtest/gen\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502934594+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/scriptreplay/manualtest/gen","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.502964238+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/serial","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/serial\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.502988868+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/serial","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.503046007+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/pkg/xio/iotest","Output":"?   \tgithub.com/JulienVdG/tastevin/pkg/xio/iotest\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.503065177+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/pkg/xio/iotest","Elapsed":0}
+{"Time":"2019-09-05T09:57:23.503094274+02:00","Action":"output","Package":"github.com/JulienVdG/tastevin/scripts/checklicenses","Output":"?   \tgithub.com/JulienVdG/tastevin/scripts/checklicenses\t[no test files]\n"}
+{"Time":"2019-09-05T09:57:23.50312424+02:00","Action":"skip","Package":"github.com/JulienVdG/tastevin/scripts/checklicenses","Elapsed":0}
